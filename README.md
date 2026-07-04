@@ -4,7 +4,7 @@
 
 I'm Lethabo from South Africa, and I am currently studying IT, Software Development at Rosebank International. I am a 2nd year student. 
 
-Skills: java / C# / JS / HTML / CSS
+Skills: Java / C# / JS / HTML / CSS
 
 - 🔭 I’m currently working on completing my studies 
 
