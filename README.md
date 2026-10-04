@@ -1,5 +1,4 @@
-### Hi there 👋, Lethabo Mohapi
-#### Software Developer
+### Hi there 👋, I am Lethabo Mohapi a Software Developer
 ![Software Developer](https://github.com/LethaboMohapi/Current-Profile_Banner/blob/main/latest_github_profile_banner-v1.png)
 
 I'm Lethabo from South Africa, and I am currently studying IT, Software Development at Rosebank International. I am a 2nd year student. 
