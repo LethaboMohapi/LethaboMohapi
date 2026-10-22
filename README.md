@@ -1,6 +1,6 @@
 <div align="center">
 
-![Lethabo Mohapi — Software Developer](https://raw.githubusercontent.com/LethaboMohapi/Current-Profile_Banner/main/latest_github_profile_banner-v1.png)
+![Lethabo Mohapi — Software Developer](https://github.com/LethaboMohapi/Current-Profile_Banner/blob/main/latest_github_profile_banner-v1.png)
 
 # Lethabo Mohapi
 
