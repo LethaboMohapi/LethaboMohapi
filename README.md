@@ -4,7 +4,7 @@
 
 # Lethabo Mohapi
 
-**Software Development Student | Aspiring Full-Stack Developer | South Africa**
+**Software Development Student | Full-Stack Developer | South Africa**
 
 Building practical software solutions while developing my skills in application development, web technologies, and databases.
 
