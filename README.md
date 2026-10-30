@@ -33,6 +33,7 @@ I'm a second-year IT student studying **Software Development at Rosebank Interna
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## Selected Projects
+[StockvelSyncAPI](https://github.com/LethaboMohapi/StokvelSync.Api).
 
 Explore my repositories for coursework and software development projects:
 
