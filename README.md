@@ -50,11 +50,28 @@ Briefly describe the problem solved, your contribution, and the technologies use
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=LethaboMohapi&show_icons=true&hide_border=true&rank_icon=github)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=7AA2F7&center=true&vCenter=true&width=520&lines=Building+practical+software;Learning+full-stack+development;Writing+clean%2C+maintainable+code" alt="Typing animation" />
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LethaboMohapi&layout=compact&hide_border=true)
+<br/><br/>
 
-![GitHub streak](https://streak-stats.demolab.com/?user=LethaboMohapi&hide_border=true)
+<a href="https://github.com/LethaboMohapi">
+  <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=LethaboMohapi&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&rank_icon=github&include_all_commits=true" />
+</a>
+<a href="https://github.com/LethaboMohapi?tab=repositories">
+  <img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LethaboMohapi&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" />
+</a>
+
+<br/>
+
+<img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=LethaboMohapi&theme=tokyonight&hide_border=true&border_radius=12" />
+
+<br/><br/>
+
+<img alt="GitHub trophies" src="https://github-profile-trophy.vercel.app/?username=LethaboMohapi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
+
+<br/><br/>
+
+<img alt="Contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=LethaboMohapi&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" />
 
 </div>
 
