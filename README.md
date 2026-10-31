@@ -12,6 +12,9 @@
 
 **Software Development Student | Full-Stack Developer | South Africa**
 
+*I am Full-Stack Software Developer, particularly in C# and ASP.NET Core.*
+*My technical focus is Full-Stack Software Engineering, covering both frontend and backend development.*
+
 *Building practical software solutions while developing my skills in application development, web technologies, and databases.*
 
 <br/>
