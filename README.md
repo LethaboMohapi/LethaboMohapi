@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/LethaboMohapi/Profile_Banner/main/latest_github_profile_banner-v1.png" width="100%" alt="Lethabo Mohapi — Software Developer profile banner" />
 
-# ✨ Lethabo Mohapi
+# Lethabo Mohapi
 
 <!-- A smaller typing animation prevents cropping on narrow mobile screens. -->
 <picture>
