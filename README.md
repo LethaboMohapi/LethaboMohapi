@@ -112,10 +112,10 @@ Briefly describe the problem solved, your contribution, and the technologies use
 <div align="center">
 
 <a href="https://github.com/LethaboMohapi">
-  <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=LethaboMohapi&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&rank_icon=github&include_all_commits=true" />
+  <img height="170" alt="GitHub stats" src="https://github-stats-extended.vercel.app/api?username=LethaboMohapi&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&rank_icon=github&include_all_commits=true" />
 </a>
 <a href="https://github.com/LethaboMohapi?tab=repositories">
-  <img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LethaboMohapi&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" />
+  <img height="170" alt="Top languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=LethaboMohapi&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" />
 </a>
 
 <br/>
