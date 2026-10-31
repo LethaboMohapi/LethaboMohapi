@@ -79,6 +79,15 @@ I'm a second-year IT student studying **Software Development at Rosebank Interna
 
 </td>
 </tr>
+<tr>
+<td width="100%">
+
+### 📸 SpazaSnap
+
+[![Source code](https://img.shields.io/badge/View_Source-SpazaSnap-7AA2F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LethaboMohapi/SpazaSnap)
+
+</td>
+</tr>
 </table>
 
 Explore my repositories for coursework and software development projects:
