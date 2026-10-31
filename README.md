@@ -1,12 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24&height=140&section=header" width="100%" alt="" />
-
-![Lethabo Mohapi — Software Developer](https://github.com/LethaboMohapi/Current-Profile_Banner/blob/main/latest_github_profile_banner-v1.png?raw=true)
+<!-- Responsive profile header: a readable banner for phones and desktop browsers. -->
+<picture>
+  <source media="(max-width: 600px)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=12,18,24&amp;height=260&amp;section=header&amp;text=Lethabo%20Mohapi&amp;fontSize=88&amp;fontColor=ffffff&amp;fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=12,18,24&amp;height=210&amp;section=header&amp;text=Lethabo%20Mohapi&amp;fontSize=70&amp;fontColor=ffffff&amp;fontAlignY=38" width="100%" alt="Lethabo Mohapi — Software Developer profile banner" />
+</picture>
 
 # ✨ Lethabo Mohapi ✨
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=7AA2F7&center=true&vCenter=true&width=640&lines=Software+Development+Student;Full-Stack+Developer;Based+in+South+Africa+%F0%9F%87%BF%F0%9F%87%A6" alt="Typing animation" />
+<!-- A smaller typing animation prevents cropping on narrow mobile screens. -->
+<picture>
+  <source media="(max-width: 600px)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=16&amp;pause=1200&amp;color=7AA2F7&amp;center=true&amp;vCenter=true&amp;width=340&amp;lines=Software+Development+Student;Full-Stack+Developer;Based+in+South+Africa+%F0%9F%87%BF%F0%9F%87%A6" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1200&amp;color=7AA2F7&amp;center=true&amp;vCenter=true&amp;width=640&amp;lines=Software+Development+Student;Full-Stack+Developer;Based+in+South+Africa+%F0%9F%87%BF%F0%9F%87%A6" width="100%" alt="Software Development Student | Full-Stack Developer | Based in South Africa" />
+</picture>
 
 **Software Development Student | Full-Stack Developer | South Africa**
 
