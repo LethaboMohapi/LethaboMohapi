@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="228" viewBox="0 0 440 228" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Learn. Build. Refine.</title>
+  <desc id="desc">A compact development loop with three connected stages.</desc>
+  <style>
+    .signal{stroke-dasharray:12 200;animation:travel 8s linear infinite}
+    @keyframes travel{to{stroke-dashoffset:-212}}
+    @media(prefers-reduced-motion:reduce){.signal{animation:none;opacity:0}}
+  </style>
+  <rect x="1" y="1" width="438" height="226" rx="18" fill="#101624" stroke="#334467"/>
+  <path d="M50 49v130" stroke="#334467" stroke-width="2"/>
+  <path class="signal" d="M50 49v130" stroke="#7dcfff" stroke-width="3" stroke-linecap="round"/>
+  <g fill="#1f2843" stroke="#334467">
+    <rect x="78" y="24" width="336" height="48" rx="10"/>
+    <rect x="78" y="90" width="336" height="48" rx="10"/>
+    <rect x="78" y="156" width="336" height="48" rx="10"/>
+  </g>
+  <g font-family="Segoe UI,Arial,sans-serif" font-weight="700" font-size="24" letter-spacing="1">
+    <g fill="#7dcfff"><circle cx="50" cy="48" r="5"/><text x="100" y="57">LEARN</text></g>
+    <g fill="#7aa2f7"><circle cx="50" cy="114" r="5"/><text x="100" y="123">BUILD</text></g>
+    <g fill="#bb9af7"><circle cx="50" cy="180" r="5"/><text x="100" y="189">REFINE</text></g>
+  </g>
+  <g font-family="Consolas,monospace" font-size="22" fill="#99a7c4">
+    <text x="358" y="56">?</text><text x="338" y="122">&lt;/&gt;</text><text x="358" y="188">↻</text>
+  </g>
+</svg>

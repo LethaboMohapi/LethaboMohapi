@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/LethaboMohapi/Profile_Banner/main/latest_github_profile_banner-v1.png" width="100%" alt="Lethabo Mohapi — Software Developer profile banner" />
 
-# ✨ Lethabo Mohapi ✨
+# ✨ Lethabo Mohapi
 
 <!-- A smaller typing animation prevents cropping on narrow mobile screens. -->
 <picture>
@@ -48,7 +48,10 @@ I'm a second-year IT student studying **Software Development at Rosebank Interna
 | 🧭 **Approach** | Write understandable, maintainable code and keep improving through hands-on practice. |
 
 <p align="center">
-  <img src="./assets/build-loop.svg" width="100%" alt="Learn, build, refine — an animated development loop" />
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/build-loop-mobile.svg" />
+    <img src="./assets/build-loop.svg" width="100%" alt="Learn, build, refine — an animated development loop" />
+  </picture>
 </p>
 
 <p align="center"><img src="./assets/divider.svg" width="100%" height="18" alt="" /></p>
