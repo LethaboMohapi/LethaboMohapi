@@ -1,0 +1,95 @@
+name: Update contribution snake
+
+on:
+  schedule:
+    - cron: '17 4 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/profile-snake.yml']
+
+permissions:
+  contents: read
+
+concurrency:
+  group: profile-snake
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+    steps:
+      - name: Animate the contribution calendar
+        uses: Platane/snk/svg-only@d8f6715049803e982ee5ff501b6b9b7d5deeb09b # v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg?color_snake=#7c3aed&color_dots=#e8edf5,#c7d2fe,#a5b4fc,#818cf8,#6366f1
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#7dcfff&color_dots=#1a1b27,#33467c,#7aa2f7,#9d7cd8,#bb9af7
+
+      - name: Add static alternatives and publish the generated images
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPOSITORY: ${{ github.repository }}
+        shell: python
+        run: |
+          import json
+          import os
+          from pathlib import Path
+          import urllib.error
+          import urllib.request
+          import xml.etree.ElementTree as ET
+
+          # Keep a still image available for visitors who prefer reduced motion.
+          ET.register_namespace('', 'http://www.w3.org/2000/svg')
+          for source in list(Path('dist').glob('*.svg')):
+              root = ET.fromstring(source.read_text())
+              style = ET.SubElement(root, '{http://www.w3.org/2000/svg}style')
+              style.text = '*{animation:none!important;transition:none!important}'
+              ET.ElementTree(root).write(source.with_stem(source.stem + '-static'), encoding='unicode')
+
+          def api(method, path, data=None):
+              request = urllib.request.Request(
+                  'https://api.github.com/repos/' + os.environ['GH_REPOSITORY'] + path,
+                  data=json.dumps(data).encode() if data is not None else None,
+                  headers={
+                      'Authorization': 'Bearer ' + os.environ['GH_TOKEN'],
+                      'Accept': 'application/vnd.github+json',
+                      'X-GitHub-Api-Version': '2022-11-28',
+                      'Content-Type': 'application/json',
+                      'User-Agent': 'profile-snake-workflow',
+                  },
+                  method=method,
+              )
+              with urllib.request.urlopen(request, timeout=30) as response:
+                  return json.load(response)
+
+          try:
+              parent = api('GET', '/git/ref/heads/output')['object']['sha']
+          except urllib.error.HTTPError as error:
+              if error.code != 404:
+                  raise
+              parent = None
+
+          images = sorted(Path('dist').glob('*.svg'))
+          assert len(images) == 4, 'Expected two animated images and two static alternatives'
+          tree = api('POST', '/git/trees', {'tree': [
+              {'path': image.name, 'mode': '100644', 'type': 'blob', 'content': image.read_text()}
+              for image in images
+          ]})
+          if parent and api('GET', '/git/commits/' + parent)['tree']['sha'] == tree['sha']:
+              print('Contribution images are already up to date.')
+          else:
+              commit = api('POST', '/git/commits', {
+                  'message': 'Refresh contribution snake',
+                  'tree': tree['sha'],
+                  'parents': [parent] if parent else [],
+              })
+              if parent:
+                  api('PATCH', '/git/refs/heads/output', {'sha': commit['sha'], 'force': False})
+              else:
+                  api('POST', '/git/refs', {'ref': 'refs/heads/output', 'sha': commit['sha']})
+              print('Published four contribution images to the output branch.')

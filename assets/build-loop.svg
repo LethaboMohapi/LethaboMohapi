@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="180" viewBox="0 0 920 180" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Learn. Build. Refine.</title>
+  <desc id="desc">Three connected development stages with a slow moving highlight.</desc>
+  <defs>
+    <linearGradient id="panel" x2="1" y2="1"><stop stop-color="#1f2843"/><stop offset="1" stop-color="#151b2e"/></linearGradient>
+    <linearGradient id="track"><stop stop-color="#7dcfff"/><stop offset=".5" stop-color="#7aa2f7"/><stop offset="1" stop-color="#bb9af7"/></linearGradient>
+  </defs>
+  <style>
+    .signal{stroke-dasharray:26 1234;animation:travel 9s linear infinite}
+    .cursor{animation:blink 2s steps(1,end) infinite}
+    @keyframes travel{to{stroke-dashoffset:-1260}}
+    @keyframes blink{0%,65%,100%{opacity:1}66%,99%{opacity:.2}}
+    @media(prefers-reduced-motion:reduce){.signal,.cursor{animation:none}.signal{opacity:0}}
+  </style>
+  <rect x="1" y="1" width="918" height="178" rx="18" fill="#101624" stroke="#334467"/>
+  <g stroke="#293756" stroke-width="1">
+    <path d="M54 0v180M866 0v180M0 30h920M0 150h920" opacity=".28"/>
+    <path d="M74 90h772" stroke="url(#track)" stroke-opacity=".45"/>
+  </g>
+  <path class="signal" d="M84 90h752" stroke="url(#track)" stroke-width="3" stroke-linecap="round"/>
+  <g fill="url(#panel)" stroke="#334467">
+    <rect x="70" y="42" width="230" height="96" rx="12"/>
+    <rect x="345" y="42" width="230" height="96" rx="12"/>
+    <rect x="620" y="42" width="230" height="96" rx="12"/>
+  </g>
+  <g font-family="Segoe UI,Arial,sans-serif">
+    <g font-size="12" font-weight="600" letter-spacing="2" fill="#99a7c4">
+      <text x="96" y="65">01 / EXPLORE</text><text x="371" y="65">02 / CREATE</text><text x="646" y="65">03 / IMPROVE</text>
+    </g>
+    <g font-size="28" font-weight="700" letter-spacing="1">
+      <text x="96" y="108" fill="#7dcfff">LEARN</text>
+      <text x="371" y="108" fill="#7aa2f7">BUILD</text>
+      <text x="646" y="108" fill="#bb9af7">REFINE</text>
+    </g>
+    <g font-family="Consolas,monospace" font-size="24" fill="#7dcfff">
+      <text x="240" y="107">?</text><text x="502" y="107">&lt;/&gt;</text><text x="792" y="107">↻</text>
+    </g>
+    <text x="460" y="165" text-anchor="middle" fill="#99a7c4" font-size="12" letter-spacing="2">LEARNING CONTINUOUSLY. BUILDING DELIBERATELY.</text>
+  </g>
+  <g stroke="#7aa2f7" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m316 85 6 5-6 5"/><path d="m591 85 6 5-6 5"/></g>
+  <rect class="cursor" x="695" y="157" width="3" height="10" fill="#7dcfff"/>
+</svg>

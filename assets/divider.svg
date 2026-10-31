@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="18" viewBox="0 0 920 18" role="img" aria-label="">
+  <defs>
+    <linearGradient id="line"><stop stop-color="#7aa2f7" stop-opacity="0"/><stop offset=".3" stop-color="#7aa2f7"/><stop offset=".7" stop-color="#bb9af7"/><stop offset="1" stop-color="#bb9af7" stop-opacity="0"/></linearGradient>
+    <linearGradient id="comet"><stop stop-color="#7dcfff" stop-opacity="0"/><stop offset="1" stop-color="#7dcfff"/></linearGradient>
+  </defs>
+  <style>
+    .comet{animation:glide 7s ease-in-out infinite}
+    @keyframes glide{0%,10%{transform:translateX(40px);opacity:0}20%,80%{opacity:.8}90%,100%{transform:translateX(800px);opacity:0}}
+    @media(prefers-reduced-motion:reduce){.comet{animation:none;opacity:0}}
+  </style>
+  <path d="M0 9H920" stroke="url(#line)" stroke-opacity=".42"/>
+  <path class="comet" d="M0 9H80" stroke="url(#comet)" stroke-width="2" stroke-linecap="round"/>
+  <path d="m460 5 4 4-4 4-4-4Z" fill="#bb9af7"/>
+</svg>
