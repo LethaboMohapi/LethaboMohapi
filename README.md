@@ -27,7 +27,7 @@
 
 <p align="center"><img src="./assets/divider.svg" width="100%" height="18" alt="" /></p>
 
-<a id="about"></a>
+<a name="about"></a>
 
 ## 👨‍💻 About Me
 
@@ -53,7 +53,7 @@ I'm a second-year IT student studying **Software Development at Rosebank Interna
 
 <p align="center"><img src="./assets/divider.svg" width="100%" height="18" alt="" /></p>
 
-<a id="skills"></a>
+<a name="skills"></a>
 
 ## 🛠️ Technical Skills
 
@@ -72,7 +72,7 @@ I'm a second-year IT student studying **Software Development at Rosebank Interna
 
 <p align="center"><img src="./assets/divider.svg" width="100%" height="18" alt="" /></p>
 
-<a id="projects"></a>
+<a name="projects"></a>
 
 ## 🚀 Selected Projects
 
@@ -116,7 +116,7 @@ Explore my repositories for coursework and software development projects:
 
 <p align="center"><img src="./assets/divider.svg" width="100%" height="18" alt="" /></p>
 
-<a id="activity"></a>
+<a name="activity"></a>
 
 ## 📊 GitHub Activity
 
@@ -162,7 +162,7 @@ Explore my repositories for coursework and software development projects:
 
 <p align="center"><img src="./assets/divider.svg" width="100%" height="18" alt="" /></p>
 
-<a id="connect"></a>
+<a name="connect"></a>
 
 ## 🌐 Connect With Me
 
