@@ -1,10 +1,6 @@
 <div align="center">
 
-<!-- Responsive profile header: a readable banner for phones and desktop browsers. -->
-<picture>
-  <source media="(max-width: 600px)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=12,18,24&amp;height=260&amp;section=header&amp;text=Lethabo%20Mohapi&amp;fontSize=88&amp;fontColor=ffffff&amp;fontAlignY=38" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=12,18,24&amp;height=210&amp;section=header&amp;text=Lethabo%20Mohapi&amp;fontSize=70&amp;fontColor=ffffff&amp;fontAlignY=38" width="100%" alt="Lethabo Mohapi — Software Developer profile banner" />
-</picture>
+<img src="https://raw.githubusercontent.com/LethaboMohapi/Profile_Banner/main/latest_github_profile_banner-v1.png" width="100%" alt="Lethabo Mohapi — Software Developer profile banner" />
 
 # ✨ Lethabo Mohapi ✨
 
