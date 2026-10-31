@@ -21,13 +21,13 @@
 
 <br/>
 
-**[About](#about) &nbsp; · &nbsp; [Skills](#skills) &nbsp; · &nbsp; [Projects](#projects) &nbsp; · &nbsp; [Activity](#activity) &nbsp; · &nbsp; [Connect](#connect)**
+**[About](#user-content-about) &nbsp; · &nbsp; [Skills](#user-content-skills) &nbsp; · &nbsp; [Projects](#user-content-projects) &nbsp; · &nbsp; [Activity](#user-content-activity) &nbsp; · &nbsp; [Connect](#user-content-connect)**
 
 </div>
 
 <p align="center"><img src="./assets/divider.svg" width="100%" height="18" alt="" /></p>
 
-<a name="about"></a>
+<a id="about" name="about"></a>
 
 ## 👨‍💻 About Me
 
@@ -53,7 +53,7 @@ I'm a second-year IT student studying **Software Development at Rosebank Interna
 
 <p align="center"><img src="./assets/divider.svg" width="100%" height="18" alt="" /></p>
 
-<a name="skills"></a>
+<a id="skills" name="skills"></a>
 
 ## 🛠️ Technical Skills
 
@@ -72,7 +72,7 @@ I'm a second-year IT student studying **Software Development at Rosebank Interna
 
 <p align="center"><img src="./assets/divider.svg" width="100%" height="18" alt="" /></p>
 
-<a name="projects"></a>
+<a id="projects" name="projects"></a>
 
 ## 🚀 Selected Projects
 
@@ -116,7 +116,7 @@ Explore my repositories for coursework and software development projects:
 
 <p align="center"><img src="./assets/divider.svg" width="100%" height="18" alt="" /></p>
 
-<a name="activity"></a>
+<a id="activity" name="activity"></a>
 
 ## 📊 GitHub Activity
 
@@ -162,7 +162,7 @@ Explore my repositories for coursework and software development projects:
 
 <p align="center"><img src="./assets/divider.svg" width="100%" height="18" alt="" /></p>
 
-<a name="connect"></a>
+<a id="connect" name="connect"></a>
 
 ## 🌐 Connect With Me
 
