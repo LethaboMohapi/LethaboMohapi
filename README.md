@@ -70,6 +70,15 @@ I'm a second-year IT student studying **Software Development at Rosebank Interna
 
 </td>
 </tr>
+<tr>
+<td width="100%">
+
+### 💰 StokvelSync_V2
+
+[![Source code](https://img.shields.io/badge/View_Source-StokvelSync_V2-7AA2F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LethaboMohapi/StockvelSync_V2)
+
+</td>
+</tr>
 </table>
 
 Explore my repositories for coursework and software development projects:
