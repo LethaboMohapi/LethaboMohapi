@@ -124,11 +124,13 @@ Briefly describe the problem solved, your contribution, and the technologies use
 
 <br/><br/>
 
-<img alt="GitHub trophies" src="https://github-profile-trophy.vercel.app/?username=LethaboMohapi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
+<img alt="GitHub trophies" src="https://github-trophies.vercel.app/?username=LethaboMohapi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
 
 <br/><br/>
 
-<img alt="Contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=LethaboMohapi&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" />
+<a href="https://github.com/LethaboMohapi?tab=overview">
+  <img width="100%" alt="Contribution graph showing GitHub contributions over the past year" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LethaboMohapi&theme=tokyonight" />
+</a>
 
 </div>
 
