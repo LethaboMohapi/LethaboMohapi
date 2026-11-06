@@ -141,7 +141,7 @@ Explore my repositories for coursework and software development projects:
 
 <br/><br/>
 
-<img alt="GitHub trophies" src="https://github-trophies.vercel.app/?username=LethaboMohapi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7"
+<img alt="GitHub trophies" src="https://github-trophies.vercel.app/?username=LethaboMohapi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
 
 <br/><br/>
 
