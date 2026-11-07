@@ -27,8 +27,8 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg?color_snake=#7c3aed&color_dots=#e8edf5,#c7d2fe,#a5b4fc,#818cf8,#6366f1
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=#7dcfff&color_dots=#1a1b27,#33467c,#7aa2f7,#9d7cd8,#bb9af7
+            dist/github-snake.svg?color_snake=#00443A&color_dots=#e8fff8,#00443a,#006b59,#0db5b0,#59ef22
+            dist/github-snake-dark.svg?color_snake=#59ef22&color_dots=#00443a,#004718,#006b59,#0db5b0,#59ef22
 
       - name: Add static alternatives and publish the generated images
         env:
