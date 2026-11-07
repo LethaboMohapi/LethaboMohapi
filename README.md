@@ -6,8 +6,8 @@
 
 <!-- A smaller typing animation prevents cropping on narrow mobile screens. -->
 <picture>
-  <source media="(max-width: 600px)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=16&amp;pause=1200&amp;color=7AA2F7&amp;center=true&amp;vCenter=true&amp;width=340&amp;lines=Software+Development+Student;Full-Stack+Developer;Based+in+South+Africa+%F0%9F%87%BF%F0%9F%87%A6" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1200&amp;color=7AA2F7&amp;center=true&amp;vCenter=true&amp;width=640&amp;lines=Software+Development+Student;Full-Stack+Developer;Based+in+South+Africa+%F0%9F%87%BF%F0%9F%87%A6" width="100%" alt="Software Development Student | Full-Stack Developer | Based in South Africa" />
+  <source media="(max-width: 600px)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=16&amp;pause=1200&amp;color=0DB5B0&amp;center=true&amp;vCenter=true&amp;width=340&amp;lines=Software+Development+Student;Full-Stack+Developer;Based+in+South+Africa+%F0%9F%87%BF%F0%9F%87%A6" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1200&amp;color=0DB5B0&amp;center=true&amp;vCenter=true&amp;width=640&amp;lines=Software+Development+Student;Full-Stack+Developer;Based+in+South+Africa+%F0%9F%87%BF%F0%9F%87%A6" width="100%" alt="Software Development Student | Full-Stack Developer | Based in South Africa" />
 </picture>
 
 **Software Development Student | Full-Stack Developer | South Africa**
@@ -129,22 +129,22 @@ Explore my repositories for coursework and software development projects:
 <div align="center">
 
 <a href="https://github.com/LethaboMohapi">
-  <img height="170" alt="GitHub stats" src="https://github-stats-extended.vercel.app/api?username=LethaboMohapi&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&rank_icon=github&include_all_commits=true" />
+  <img height="170" alt="GitHub stats" src="https://github-stats-extended.vercel.app/api?username=LethaboMohapi&show_icons=true&bg_color=00443A&title_color=0DB5B0&text_color=59EF22&icon_color=0DB5B0&border_color=004718&hide_border=true&border_radius=12&rank_icon=github&include_all_commits=true" />
 </a>
 <a href="https://github.com/LethaboMohapi?tab=repositories">
-  <img height="170" alt="Top languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=LethaboMohapi&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" />
+  <img height="170" alt="Top languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=LethaboMohapi&layout=compact&bg_color=00443A&title_color=0DB5B0&text_color=59EF22&icon_color=0DB5B0&border_color=004718&hide_border=true&border_radius=12&langs_count=8" />
 </a>
 
 <br/>
-<img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=LethaboMohapi&theme=tokyonight&hide_border=true&border_radius=12" />
+<img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=LethaboMohapi&bg_color=00443A&title_color=0DB5B0&text_color=59EF22&icon_color=0DB5B0&border_color=004718&hide_border=true&border_radius=12" />
 <br/><br/>
 
-<img alt="GitHub trophies" src="https://github-trophies.vercel.app/?username=LethaboMohapi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
+<img alt="GitHub trophies" src="https://github-trophies.vercel.app/?username=LethaboMohapi&bg_color=00443A&title_color=0DB5B0&text_color=59EF22&icon_color=0DB5B0&border_color=004718&no-frame=true&no-bg=true&margin-w=8&column=7" />
 
 <br/><br/>
 
 <a href="https://github.com/LethaboMohapi?tab=overview">
-  <img width="100%" alt="Contribution graph showing GitHub contributions over the past year" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LethaboMohapi&theme=tokyonight" />
+  <img width="100%" alt="Contribution graph showing GitHub contributions over the past year" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LethaboMohapi&bg_color=00443A&title_color=0DB5B0&text_color=59EF22&icon_color=0DB5B0&border_color=004718" />
 </a>
 
 </div>
@@ -185,6 +185,6 @@ Explore my repositories for coursework and software development projects:
 
 <sub>Learning continuously. Building deliberately.</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24&height=120&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0DB5B0&height=120&section=footer" width="100%" alt="" />
 
 </div>
