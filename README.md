@@ -136,7 +136,7 @@ Explore my repositories for coursework and software development projects:
 </a>
 
 <br/>
-<img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=LethaboMohapi&bg_color=00443A&title_color=0DB5B0&text_color=59EF22&icon_color=0DB5B0&border_color=004718&hide_border=true&border_radius=12" />
+<img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=LethaboMohapi&background=00443A&stroke=004718&ring=0DB5B0&fire=59EF22&currStreakNum=59EF22&sideNums=59EF22&currStreakLabel=0DB5B0&sideLabels=59EF22&dates=59EF22&excludeDaysLabel=59EF22&border=004718&hide_border=true&border_radius=12" />
 <br/><br/>
 
 <img alt="GitHub trophies" src="https://github-trophies.vercel.app/?username=LethaboMohapi&bg_color=00443A&title_color=0DB5B0&text_color=59EF22&icon_color=0DB5B0&border_color=004718&no-frame=true&no-bg=true&margin-w=8&column=7" />
