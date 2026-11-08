@@ -6,8 +6,8 @@
 
 <!-- A smaller typing animation prevents cropping on narrow mobile screens. -->
 <picture>
-  <source media="(max-width: 600px)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=16&amp;pause=1200&amp;color=0DB5B0&amp;center=true&amp;vCenter=true&amp;width=340&amp;lines=Software+Development+Student;Full-Stack+Developer;Based+in+South+Africa+%F0%9F%87%BF%F0%9F%87%A6" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1200&amp;color=0DB5B0&amp;center=true&amp;vCenter=true&amp;width=640&amp;lines=Software+Development+Student;Full-Stack+Developer;Based+in+South+Africa+%F0%9F%87%BF%F0%9F%87%A6" width="100%" alt="Software Development Student | Full-Stack Developer | Based in South Africa" />
+  <source media="(max-width: 600px)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=16&amp;pause=1200&amp;color=0DB5B0&amp;center=true&amp;vCenter=true&amp;width=340&amp;lines=Software+Development+Student;Full-Stack+Developer;Based+in+South+Africa" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1200&amp;color=0DB5B0&amp;center=true&amp;vCenter=true&amp;width=640&amp;lines=Software+Development+Student;Full-Stack+Developer;Based+in+South+Africa" width="100%" alt="Software Development Student | Full-Stack Developer | Based in South Africa" />
 </picture>
 
 **Software Development Student | Full-Stack Developer | South Africa**
