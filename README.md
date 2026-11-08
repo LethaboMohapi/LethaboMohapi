@@ -86,6 +86,15 @@ I'm a second-year IT student studying **Software Development at Rosebank Interna
 <tr>
 <td width="100%">
 
+### 🇿🇦 SAJobsAgent
+
+[![Source code](https://img.shields.io/badge/View_Source-SAJobsAgent-7AA2F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LethaboMohapi/SAJobsAgent)
+
+</td>
+</tr>
+<tr>
+<td width="100%">
+
 ### 💰 StockvelSyncAPI
 
 [![Source code](https://img.shields.io/badge/View_Source-StokvelSync.Api-7AA2F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LethaboMohapi/StokvelSync.Api)
