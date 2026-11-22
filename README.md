@@ -137,22 +137,22 @@ Explore my repositories for coursework and software development projects:
 <div align="center">
 
 <a href="https://github.com/LethaboMohapi">
-  <img height="170" alt="GitHub stats" src="https://github-stats-extended.vercel.app/api?username=LethaboMohapi&show_icons=true&bg_color=00443A&title_color=0DB5B0&text_color=59EF22&icon_color=0DB5B0&border_color=004718&hide_border=true&border_radius=12&rank_icon=github&include_all_commits=true" />
+  <img height="170" alt="GitHub stats" src="https://github-stats-extended.vercel.app/api?username=LethaboMohapi&show_icons=true&bg_color=FFFFFF&title_color=2563EB&text_color=111827&icon_color=2563EB&border_color=DBEAFE&hide_border=true&border_radius=12&rank_icon=github&include_all_commits=true" />
 </a>
 <a href="https://github.com/LethaboMohapi?tab=repositories">
-  <img height="170" alt="Top languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=LethaboMohapi&layout=compact&bg_color=00443A&title_color=0DB5B0&text_color=59EF22&icon_color=0DB5B0&border_color=004718&hide_border=true&border_radius=12&langs_count=8" />
+  <img height="170" alt="Top languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=LethaboMohapi&layout=compact&bg_color=FFFFFF&title_color=2563EB&text_color=111827&icon_color=2563EB&border_color=DBEAFE&hide_border=true&border_radius=12&langs_count=8" />
 </a>
 
 <br/>
-<img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=LethaboMohapi&background=00443A&stroke=004718&ring=0DB5B0&fire=59EF22&currStreakNum=59EF22&sideNums=59EF22&currStreakLabel=0DB5B0&sideLabels=59EF22&dates=59EF22&excludeDaysLabel=59EF22&border=004718&hide_border=true&border_radius=12" />
+<img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=LethaboMohapi&background=FFFFFF&stroke=DBEAFE&ring=2563EB&fire=60A5FA&currStreakNum=111827&sideNums=111827&currStreakLabel=2563EB&sideLabels=111827&dates=4B5563&excludeDaysLabel=4B5563&border=DBEAFE&hide_border=true&border_radius=12" />
 <br/><br/>
 
-<img alt="GitHub trophies" src="https://github-trophies.vercel.app/?username=LethaboMohapi&bg_color=00443A&title_color=0DB5B0&text_color=59EF22&icon_color=0DB5B0&border_color=004718&no-frame=true&no-bg=true&margin-w=8&column=7" />
+<img alt="GitHub trophies" src="https://github-trophies.vercel.app/?username=LethaboMohapi&bg_color=FFFFFF&title_color=2563EB&text_color=111827&icon_color=2563EB&border_color=DBEAFE&no-frame=true&margin-w=8&column=7" />
 
 <br/><br/>
 
 <a href="https://github.com/LethaboMohapi?tab=overview">
-  <img width="100%" alt="Contribution graph showing GitHub contributions over the past year" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LethaboMohapi&bg_color=00443A&title_color=0DB5B0&text_color=59EF22&icon_color=0DB5B0&border_color=004718" />
+  <img width="100%" alt="Contribution graph showing GitHub contributions over the past year" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LethaboMohapi&bg_color=FFFFFF&title_color=2563EB&text_color=111827&icon_color=2563EB&border_color=DBEAFE" />
 </a>
 
 </div>
